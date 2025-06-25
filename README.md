@@ -18,7 +18,7 @@ I build clean, efficient, and reliable code to help businesses and individuals s
   [View my certificate](https://github.com/dimitar-sudo/certifications/raw/main/certificate_sJsS.1tT0.54WA.pdf)
 
 Based in Macedonia, available for remote freelance projects.  
-Feel free to reach out via GitHub to discuss your ideas or projects!
+Feel free to reach out via GitHub or email to discuss your ideas or projects!
 
 ---
 
