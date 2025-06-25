@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi, I'm Dimitar Karaskakovski 👋
+
+I'm a freelance Python developer specializing in:
+
+- 🐍 Automation and scripting to simplify repetitive tasks  
+- 🌐 Web scraping for data extraction and processing  
+- 🤖 Raspberry Pi projects integrating sensors, GPS, and motors  
+
+I'm currently expanding my skills in:  
+- 📊 Data analysis and visualization with pandas  
+- 🔗 REST API development and integration  
+
+I build clean, efficient, and reliable code to help businesses and individuals save time and make data-driven decisions.
+
+Based in Macedonia, available for remote freelance projects.  
+Feel free to reach out via GitHub to discuss your ideas or projects!
+
+---
+
+*Let’s build smart, useful tools together!*
 
 <!--
 **dimitar-sudo/dimitar-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
