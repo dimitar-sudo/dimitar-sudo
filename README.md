@@ -14,7 +14,7 @@ I build clean, efficient, and reliable code to help businesses and individuals s
 
 ### Certifications 🎓
 
-- 🐍 **PCEP – Certified Entry-Level Python Programmer**  
+- 🐍 **PCAP – Certified Associate Python Programmer**  
   [View my certificate](https://github.com/dimitar-sudo/certifications/raw/main/certificate_sJsS.1tT0.54WA.pdf)
 
 Based in Macedonia, available for remote freelance projects.  
