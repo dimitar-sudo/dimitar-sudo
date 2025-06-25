@@ -12,13 +12,17 @@ I'm currently expanding my skills in:
 
 I build clean, efficient, and reliable code to help businesses and individuals save time and make data-driven decisions.
 
+### Certifications 🎓
+
+- 🐍 **PCEP – Certified Entry-Level Python Programmer**  
+  [View my certificate](https://github.com/dimitar-sudo/certifications/raw/main/certificate_sJsS.1tT0.54WA.pdf)
+
 Based in Macedonia, available for remote freelance projects.  
 Feel free to reach out via GitHub to discuss your ideas or projects!
 
 ---
 
 *Let’s build smart, useful tools together!*
-
 <!--
 **dimitar-sudo/dimitar-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
