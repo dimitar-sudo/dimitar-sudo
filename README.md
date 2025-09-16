@@ -4,11 +4,9 @@ I'm a freelance Python developer specializing in:
 
 - 🐍 Automation and scripting to simplify repetitive tasks  
 - 🌐 Web scraping for data extraction and processing  
-- 🤖 Raspberry Pi projects integrating sensors, GPS, and motors  
-
-I'm currently expanding my skills in:  
-- 📊 Data analysis and visualization with pandas  
 - 🔗 REST API development and integration  
+- 📊 Data analysis and visualization with pandas  
+
 
 I build clean, efficient, and reliable code to help businesses and individuals save time and make data-driven decisions.
 
