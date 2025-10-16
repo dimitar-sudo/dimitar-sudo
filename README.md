@@ -1,37 +1,112 @@
-## Hi, I'm Dimitar Karaskakovski 👋
-
-I'm a freelance Python developer specializing in:
-
-- 🐍 Automation and scripting to simplify repetitive tasks  
-- 🌐 Web scraping for data extraction and processing  
-- 🔗 REST API development and integration  
-- 📊 Data analysis and visualization with pandas  
-
-
-I build clean, efficient, and reliable code to help businesses and individuals save time and make data-driven decisions.
-
-### Certifications 🎓
-
-- 🐍 **PCAP – Certified Associate Python Programmer**  
-  [View my certificate](https://github.com/dimitar-sudo/certifications/raw/main/certificate_sJsS.1tT0.54WA.pdf)
-
-Based in Macedonia, available for remote freelance projects.  
-Feel free to reach out via GitHub or email to discuss your ideas or projects!
+<!-- Animated Typing Headline -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dimitar+Karaskakovski+👋;Freelance+Python+Developer+%7C+Automation+%26+AI;Building+Smart+Web+Apps+That+Solve+Real+Problems" alt="Typing SVG" />
+</h1>
 
 ---
 
-*Let’s build smart, useful tools together!*
-<!--
-**dimitar-sudo/dimitar-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 **“I turn ideas into working Python applications — fast.”**
 
-Here are some ideas to get you started:
+Hi there! I'm **Dimitar Karaskakovski**, a freelance **Python developer** passionate about building intelligent, efficient, and user-friendly software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in automating workflows, integrating APIs, and creating full-stack web apps that help businesses save time and make smarter decisions.
+
+---
+
+## 🚀 About Me
+
+- 🐍 Focused on **Python development**, automation, and backend logic  
+- 🌐 Skilled in **Flask** for building modern, fast web applications  
+- 📊 Experienced with **data analysis and web scraping** (BeautifulSoup, pandas)  
+- 🤖 Knowledgeable in **NLP & data parsing** (SpaCy, regex, REST APIs)  
+- 💡 Comfortable with **frontend technologies** (HTML, CSS, JavaScript)  
+- 🗄️ Familiar with **SQLAlchemy** and database design  
+
+I enjoy transforming complex problems into clean, maintainable, and scalable code.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🌟 Featured Project
+
+### 🗓️ [Smart Scheduler AI](https://github.com/dimitar-sudo/smart-scheduler-ai)
+A **conversational appointment scheduler** powered by **Flask** and **AI-driven parsing**.  
+It automatically extracts dates, times, and details from natural language, fills forms progressively, and maintains sessions seamlessly.  
+**Tech used:** Flask, SpaCy NER, regex, JS, HTML/CSS  
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://smart-scheduler-ai.onrender.com)
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/smart-scheduler-ai)
+
+---
+
+## 📌 Pinned Projects
+
+### 💼 [eBay Product Finder](https://github.com/dimitar-sudo/ebay-product-finder)
+A **Flask web app** that connects to the **eBay Browse API** to fetch and filter product data in real time.  
+Includes advanced filters, sorting, currency conversion, and export options.  
+**Tech used:** Flask, Requests, Pandas, HTML/CSS/JS  
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/ebay-product-finder)
+
+---
+
+### 📈 [S&P 500 Data Scraper](https://github.com/dimitar-sudo/sp500-collector)
+A modularized **web scraping and data collection tool** that gathers real-time S&P 500 company data and exports results in CSV format.  
+**Tech used:** BeautifulSoup, Requests, Pandas, Flask  
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/sp500-collector)
+
+---
+
+### ✅ [Task Manager Web App](https://github.com/dimitar-sudo/task-manager)
+A clean, responsive **task management web application** with real-time task tracking and user-friendly interface.  
+**Tech used:** Flask, SQLite, HTML, CSS, JavaScript  
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/task-manager)
+
+---
+
+## 📜 Certifications
+
+- 🐍 **PCAP – Certified Associate Python Programmer**  
+  [📄 View Certificate](https://github.com/dimitar-sudo/certifications/raw/main/certificate_sJsS.1tT0.54WA.pdf)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimitar-sudo&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-sudo&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  📧 **Email:** [dimitarkaraskakovski92@gmail.com](mailto:dimitarkaraskakovski92@gmail.com)  
+  💼 **Upwork:** [Your Upwork Profile](#)  
+  🔗 **LinkedIn:** [Your LinkedIn Profile](#)
+</p>
+
+---
+
+### 🌍 Based in Macedonia • Available for Remote Freelance Projects
+
+> *Let’s build smart, useful tools together!*
