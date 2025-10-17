@@ -88,9 +88,19 @@ A clean, responsive **task management web application** with real-time task trac
 
 ## 📜 Certifications
 
-- 🐍 PCAP — Certified Associate in Python Programming (OpenEDG Python Institute)  
-  [![PCAP - Certified Associate in Python Programming](<https://www.credly.com/badges/f28a7373-aeda-4561-84a6-fdf8e7e8198a>)](<https://verify.openedg.org/?id=sJsS.1tT0.54WA>)
-  [![PCAP Certified](https://img.shields.io/badge/PCAP-Certified-brightgreen)](<[your-verification-link](https://verify.openedg.org/?id=sJsS.1tT0.54WA)>)
+<!-- Top badges -->
+[![PCAP Certified](https://img.shields.io/badge/PCAP-Certified-brightgreen?logo=python&logoColor=white&style=for-the-badge)](https://verify.openedg.org/?id=sJsS.1tT0.54WA)
+[![PCAP on Credly](https://img.shields.io/badge/Credly-PCAP-orange?logo=credly&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/f28a7373-aeda-4561-84a6-fdf8e7e8198a)
+
+<!-- Optional: collapsible section for details -->
+<details>
+  <summary>Show PCAP certificate details</summary>
+
+  • Verification (OpenEDG): https://verify.openedg.org/?id=sJsS.1tT0.54WA
+
+  • Credly badge: https://www.credly.com/badges/f28a7373-aeda-4561-84a6-fdf8e7e8198a
+
+</details>
 
 ---
 
