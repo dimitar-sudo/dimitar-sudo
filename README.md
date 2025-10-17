@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Give me the complete the complete mark down file
-
-Here is the complete README.md with only visual improvements applied. All wording, emojis, links, and order remain unchanged.
-
-***
-
 <!-- Animated Typing Headline -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dimitar+Karaskakovski+👋;Freelance+Python+Developer+%7C+Automation+%26+APIs;Building+Smart+Web+Apps+That+Solve+Real+Problems" alt="Typing SVG" />
