@@ -88,8 +88,8 @@ A clean, responsive **task management web application** with real-time task trac
 
 ## 📜 Certifications
 
-- 🐍 **PCAP – Certified Associate Python Programmer**  
-  [📄 View Certificate](https://github.com/dimitar-sudo/certifications/raw/main/certificate_sJsS.1tT0.54WA.pdf)
+- 🐍 PCAP — Certified Associate in Python Programming (OpenEDG Python Institute)  
+  [![PCAP - Certified Associate in Python Programming](<https://www.credly.com/badges/f28a7373-aeda-4561-84a6-fdf8e7e8198a>)](<https://verify.openedg.org/?id=sJsS.1tT0.54WA>)
 
 ---
 
