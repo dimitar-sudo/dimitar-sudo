@@ -63,6 +63,7 @@ A **Flask web app** that connects to the **eBay Browse API** to fetch and filter
 Includes advanced filters, sorting, currency conversion, and export options.  
 **Tech used:** Flask, REST APIs, Requests, Pandas, HTML/CSS/JS  
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://e-commerce-app-d78j.onrender.com/)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/ebay-product-finder)
 
 ---
@@ -71,6 +72,7 @@ Includes advanced filters, sorting, currency conversion, and export options.
 A modularized **web scraping and data collection tool** that gathers real-time S&P 500 company data and exports results in CSV format.  
 **Tech used:** BeautifulSoup, Requests, Pandas, Flask  
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://sp500-scraper-app.onrender.com/)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/sp500-collector)
 
 ---
@@ -79,6 +81,7 @@ A modularized **web scraping and data collection tool** that gathers real-time S
 A clean, responsive **task management web application** with real-time task tracking and user-friendly interface.  
 **Tech used:** Flask, SQLite, HTML, CSS, JavaScript  
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://smart-scheduler-ai.onrender.com)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/task-manager)
 
 ---
