@@ -16,12 +16,13 @@ I specialize in **automating workflows**, **integrating APIs**, and **creating f
 ## 🚀 About Me
 
 - 🐍 Focused on **Python development**, automation, and backend logic  
-- 🔗 Skilled in **REST API development and integration**  
+- 🔗 Skilled in **REST API integration**  
 - 🌐 Experienced with **Flask** for building modern, fast web applications  
 - 📊 Proficient in **data analysis and web scraping** (BeautifulSoup, pandas)  
 - 🤖 Knowledgeable in **NLP & data parsing** (SpaCy, regex, custom logic)  
 - 💡 Comfortable with **frontend technologies** (HTML, CSS, JavaScript)  
-- 🗄️ Familiar with **SQLAlchemy** and database design  
+- 🗄️ Familiar with **SQLAlchemy** and database design
+- 🔗 Skilled in **REST API integration** 
 
 I enjoy transforming complex problems into clean, maintainable, and scalable code that delivers real business value.
 
