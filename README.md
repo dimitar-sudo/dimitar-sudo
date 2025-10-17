@@ -96,9 +96,11 @@ A clean, responsive **task management web application** with real-time task trac
 ---
 
 ## 📬 Contact Me
-<p align="center"> 📧 Email: <a href="mailto:dimitarkaraskakovski92@gmail.com">dimitarkaraskakovski92@gmail.com</a><br/> 💼 Upwork: <a href="#">View Upwork profile</a><br/> 🔗 LinkedIn: <a href="#">View LinkedIn profile</a> </p>
-
----
+<p align="center">
+  📧 Email: <a href="mailto:dimitarkaraskakovski92@gmail.com">dimitarkaraskakovski92@gmail.com</a><br/>
+  💼 Upwork: <a href="#">View Upwork profile</a><br/>
+  🔗 LinkedIn: <a href="#">View LinkedIn profile</a><br/>
+</p>
 
 ### 🌍 Based in Austria • Available for Remote Freelance Projects
 
