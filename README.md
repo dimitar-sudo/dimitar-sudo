@@ -49,7 +49,7 @@ I enjoy transforming complex problems into clean, maintainable, and scalable cod
 ### 🗓️ [Smart Scheduler AI](https://github.com/dimitar-sudo/smart-scheduler-ai)
 A **conversational appointment scheduler** powered by **Flask** and **AI-driven parsing**.  
 It automatically extracts dates, times, and details from natural language, fills forms progressively, and maintains sessions seamlessly.  
-**Tech used:** Flask, SpaCy NER, regex, REST APIs, JS, HTML/CSS  
+**Tech used:** Flask, SpaCy NER, regex, HTML/CSS/JS  
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://smart-scheduler-ai.onrender.com)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/smart-scheduler-ai)
@@ -70,7 +70,7 @@ Includes advanced filters, sorting, currency conversion, and export options.
 
 ### 📈 [S&P 500 Data Scraper](https://github.com/dimitar-sudo/sp500-collector)
 A modularized **web scraping and data collection tool** that gathers real-time S&P 500 company data and exports results in CSV format.  
-**Tech used:** BeautifulSoup, Requests, Pandas, Flask  
+**Tech used:** BeautifulSoup, Requests, Pandas, Flask, HTML/CSS/JS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)]([https://github.com/dimitar-sudo/sp500-scraper-app)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/sp500-scraper-app)
@@ -79,7 +79,7 @@ A modularized **web scraping and data collection tool** that gathers real-time S
 
 ### ✅ [Task Manager Web App](https://github.com/dimitar-sudo/task-manager)
 A clean, responsive **task management web application** with real-time task tracking and user-friendly interface.  
-**Tech used:** Flask, SQLite, HTML, CSS, JavaScript  
+**Tech used:** Flask, SQLite, HTML/CSS/JS  
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://smart-scheduler-ai.onrender.com)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/task-master)
