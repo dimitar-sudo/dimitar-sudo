@@ -16,12 +16,13 @@ I specialize in **automating workflows**, **integrating APIs**, and **creating f
 ## 🚀 About Me
 
 - 🐍 Focused on **Python development**, automation, and backend logic  
-- 🔗 Skilled in **REST API development and integration**  
+- 🔗 Skilled in **REST API integration**  
 - 🌐 Experienced with **Flask** for building modern, fast web applications  
 - 📊 Proficient in **data analysis and web scraping** (BeautifulSoup, pandas)  
 - 🤖 Knowledgeable in **NLP & data parsing** (SpaCy, regex, custom logic)  
 - 💡 Comfortable with **frontend technologies** (HTML, CSS, JavaScript)  
-- 🗄️ Familiar with **SQLAlchemy** and database design  
+- 🗄️ Familiar with **SQLAlchemy** and database design
+- 🔗 Skilled in **REST API integration** 
 
 I enjoy transforming complex problems into clean, maintainable, and scalable code that delivers real business value.
 
@@ -90,25 +91,11 @@ A clean, responsive **task management web application** with real-time task trac
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimitar-sudo&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitar-sudo&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
----
-
 ## 📬 Contact Me
-
-<p align="center">
-  📧 **Email:** [dimitarkaraskakovski92@gmail.com](mailto:dimitarkaraskakovski92@gmail.com)  
-  💼 **Upwork:** [Your Upwork Profile](#)  
-  🔗 **LinkedIn:** [Your LinkedIn Profile](#)
-</p>
+<p align="center"> 📧 Email: <a href="mailto:dimitarkaraskakovski92@gmail.com">dimitarkaraskakovski92@gmail.com</a><br/> 💼 Upwork: <a href="#">View Upwork profile</a><br/> 🔗 LinkedIn: <a href="#">View LinkedIn profile</a> </p>
 
 ---
 
-### 🌍 Based in Macedonia • Available for Remote Freelance Projects
+### 🌍 Based in Austria • Available for Remote Freelance Projects
 
 > *Let’s build smart, useful tools together!*
