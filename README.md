@@ -72,7 +72,7 @@ Includes advanced filters, sorting, currency conversion, and export options.
 A modularized **web scraping and data collection tool** that gathers real-time S&P 500 company data and exports results in CSV format.  
 **Tech used:** BeautifulSoup, Requests, Pandas, Flask, HTML/CSS/JS
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)]([https://github.com/dimitar-sudo/sp500-scraper-app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://sp500-scraper-app.onrender.com)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/sp500-scraper-app)
 
 ---
