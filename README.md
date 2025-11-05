@@ -81,7 +81,7 @@ A modularized **web scraping and data collection tool** that gathers real-time S
 A clean, responsive **task management web application** with real-time task tracking and user-friendly interface.  
 **Tech used:** Flask, SQLite, HTML/CSS/JS  
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://smart-scheduler-ai.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://task-master-demo.onrender.com)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/task-master)
 
 ---
