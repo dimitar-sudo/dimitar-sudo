@@ -51,7 +51,7 @@ A **conversational appointment scheduler** powered by **Flask** and **AI-driven 
 It automatically extracts dates, times, and details from natural language, fills forms progressively, and maintains sessions seamlessly.  
 **Tech used:** Flask, SpaCy NER, regex, HTML/CSS/JS  
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://smart-scheduler-ai.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge)](https://smart-scheduler-ai-demo.onrender.com)
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dimitar-sudo/smart-scheduler-ai)
 
 ---
