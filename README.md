@@ -25,7 +25,7 @@ I founded **Karas**, an AI support agent for e-commerce that is live in producti
   <a href="https://usekaras.com"><img src="assets/karas-cited-answer.png" width="480" alt="Karas answering a question with a citation to the source article"/></a>
 </p>
 
-**[usekaras.com](https://usekaras.com)** · Aug 2026 – present. Karas answers customer questions from a store's help centre and links the article behind each answer. It refuses rather than guesses, and it hands off to a human when it can't help. Clients install it with one `<script>` tag, and the demo on the landing page is the live product.
+**[usekaras.com](https://usekaras.com)** . Karas answers customer questions from a store's help centre and links the article behind each answer. It refuses rather than guesses, and it hands off to a human when it can't help. Clients install it with one `<script>` tag, and the demo on the landing page is the live product.
 
 I designed the retrieval, evaluation and safety logic. I built the widget, servers and deployment working with a coding agent (Claude Code).
 
